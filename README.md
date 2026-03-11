@@ -1,5 +1,4 @@
-JavaScript:  <h1>hola mundo!</h1>
-               <script src="script.js"></script>
+
 Python:   print("Hola mudo!")
 Java:    System.out.println("hola mundo");
 
